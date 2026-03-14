@@ -1,0 +1,23 @@
+{
+  "name": "coding-club",
+  "version": "1.0.0",
+  "description": "Coding Club's website",
+  "homepage": "https://github.com/Yael-pie/Coding-Club#readme",
+  "bugs": {
+    "url": "https://github.com/Yael-pie/Coding-Club/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yael-pie/Coding-Club.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "vite": "^8.0.0"
+  }
+}
